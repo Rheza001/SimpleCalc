@@ -1,0 +1,4 @@
+#Tue Feb 06 12:16:10 ICT 2018
+base.0=G\:\\Semester 6\\Pemrograman Aplikasi Mobile\\Week-3\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
