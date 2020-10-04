@@ -55,10 +55,10 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         // Initialize the calculator class and all the views
-        mCalculator = new Calculator();
-        mResultTextView = (TextView) findViewById(R.id.operation_result_text_view);
-        mOperandOneEditText = (EditText) findViewById(R.id.operand_one_edit_text);
-        mOperandTwoEditText = (EditText) findViewById(R.id.operand_two_edit_text);
+        mCalculator = new Calculator();      
+        mResultTextView = findViewById(R.id.operation_result_text_view);  
+        mOperandOneEditText = findViewById(R.id.operand_one_edit_text);
+        mOperandTwoEditText = findViewById(R.id.operand_two_edit_text);
     }
 
     /**
